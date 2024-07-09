@@ -1,8 +1,9 @@
-Fullstack Task Manager (MERN)
+Fullstack Task Manager (MERN)//
 Overview
-Hello everone,Welcome to the "TaskManger" project.This project is built using the MERN stack (MongoDB, Express.js, React, and Node.js).It provides a user-friendly interface for efficient task assignment, tracking, and collaboration. 
+Hello everyone,Welcome to the "TaskManger" project.This project is built using the MERN stack (MongoDB, Express.js, React, and Node.js).
+It provides a user-friendly interface for efficient task assignment, tracking, and collaboration. 
 
-SETUP INSTRUCTIONS
+SETUP INSTRUCTIONS//
 Server Setup
 Environment variables
 First, create the environment variables file .env in the server folder. The .env file contains the following environment variables:
