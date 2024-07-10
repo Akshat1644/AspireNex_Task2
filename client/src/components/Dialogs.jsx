@@ -3,7 +3,7 @@ import { Dialog } from "@headlessui/react";
 import clsx from "clsx";
 import { FaQuestion } from "react-icons/fa";
 import ModalWrapper from "./ModalWrapper";
-import Button from "../../../../1/client/src/components/Button";
+import { Button } from "@headlessui/react";
 
 export default function ConfirmatioDialog({
   open,
